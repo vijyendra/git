@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="checkout.CheckoutServiceImplTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2016-04-27T23:51:34" hostname="UNKNOWN" time="0.004">
+  <properties/>
+  <testcase name="checkoutTestEmptyCart" classname="checkout.CheckoutServiceImplTest" time="0.001"/>
+  <testcase name="checkoutTestCleanCart" classname="checkout.CheckoutServiceImplTest" time="0.002"/>
+  <testcase name="checkoutTestNullCart" classname="checkout.CheckoutServiceImplTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

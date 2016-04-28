@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: Shopping Cart Checkout System
+Implementation-Version: 1.0
+
